@@ -14,3 +14,5 @@ The goal of a **state space model** is to infer information about the state vari
 
 The state space representation of a timeseries problem is a sequential analysis framework that typically includes tasks like filtering and smoothing.
 Refer to the code directory of this repo to find out more.
+
+Find out more from another book: https://bookdown.org/rdpeng/timeseriesbook/state-space-models-and-the-kalman-filter.html
