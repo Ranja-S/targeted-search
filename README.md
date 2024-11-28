@@ -16,6 +16,6 @@ An excerpt from my book:
 
 
 The state space representation of a timeseries problem is a sequential analysis framework that typically includes tasks like filtering and smoothing.
-Refer to the **code directory of this repo** to find out more.
+Refer to the **code directory** of this repo to find out more.
 
 Find out more from another book: https://bookdown.org/rdpeng/timeseriesbook/state-space-models-and-the-kalman-filter.html
